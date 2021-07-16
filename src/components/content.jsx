@@ -16,21 +16,14 @@ class Content extends React.Component {
           <div className="col-md-6 aboutDesc">
             <h1>About Me</h1>
             <p className="aboutText">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere
-              iure, sunt vitae nemo nisi itaque et unde dignissimos? Velit illum
-              vel tempore eos! Impedit velit, quasi esse suscipit id labore!
+              My name is Muammar Alfien Zaidan. I am a Full-Stack Developer
+              currently perserving in Laravel and Vue.js. I also studying other
+              things that related to PHP and Javascript.
             </p>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-              facere totam voluptatum nam maiores quasi alias iusto unde nulla
-              amet sapiente, sequi optio impedit. Nobis, nisi earum? Aliquid,
-              molestias exercitationem!
-            </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae
-              facere totam voluptatum nam maiores quasi alias iusto unde nulla
-              amet sapiente, sequi optio impedit. Nobis, nisi earum? Aliquid,
-              molestias exercitationem!
+              Currently I'm studying at Polytechnic in Bandung called Poltekpos.
+              I'm majoring the computer science major which is the thing that
+              I've been learning until now.
             </p>
           </div>
         </div>
